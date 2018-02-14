@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "react-User Task",
+  "name": "react-user-task",
   "version": "2.0.0",
   "description": "Backbone's example TODO User Taks app with React for views",
   "main": "todos.js",
